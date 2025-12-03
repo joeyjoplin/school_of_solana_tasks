@@ -1,0 +1,7 @@
+/home/dsantos/solana-school/program-joeyjoplin/anchor_project/trident-tests/target/release/deps/pin_project_lite-a22006e28be69faf.d: /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pin-project-lite-0.2.16/src/lib.rs
+
+/home/dsantos/solana-school/program-joeyjoplin/anchor_project/trident-tests/target/release/deps/libpin_project_lite-a22006e28be69faf.rlib: /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pin-project-lite-0.2.16/src/lib.rs
+
+/home/dsantos/solana-school/program-joeyjoplin/anchor_project/trident-tests/target/release/deps/libpin_project_lite-a22006e28be69faf.rmeta: /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pin-project-lite-0.2.16/src/lib.rs
+
+/home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pin-project-lite-0.2.16/src/lib.rs:

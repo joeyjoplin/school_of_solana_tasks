@@ -1,0 +1,5 @@
+cargo:rustc-cfg=RUSTC_WITHOUT_SPECIALIZATION
+cargo:rerun-if-changed=proto/context.proto
+cargo:rerun-if-changed=proto/invoke.proto
+cargo:rerun-if-changed=proto/sysvar.proto
+cargo:rerun-if-changed=proto/txn.proto

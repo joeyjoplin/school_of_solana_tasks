@@ -1,0 +1,10 @@
+/home/dsantos/solana-school/program-joeyjoplin/anchor_project/target/sbpf-solana-solana/release/deps/libsolana_instruction-384d81b423bbc369.rmeta: /home/dsantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.3.3/src/lib.rs /home/dsantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.3.3/src/account_meta.rs /home/dsantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.3.3/src/error.rs /home/dsantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.3.3/src/syscalls.rs
+
+/home/dsantos/solana-school/program-joeyjoplin/anchor_project/target/sbpf-solana-solana/release/deps/libsolana_instruction-384d81b423bbc369.rlib: /home/dsantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.3.3/src/lib.rs /home/dsantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.3.3/src/account_meta.rs /home/dsantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.3.3/src/error.rs /home/dsantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.3.3/src/syscalls.rs
+
+/home/dsantos/solana-school/program-joeyjoplin/anchor_project/target/sbpf-solana-solana/release/deps/solana_instruction-384d81b423bbc369.d: /home/dsantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.3.3/src/lib.rs /home/dsantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.3.3/src/account_meta.rs /home/dsantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.3.3/src/error.rs /home/dsantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.3.3/src/syscalls.rs
+
+/home/dsantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.3.3/src/lib.rs:
+/home/dsantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.3.3/src/account_meta.rs:
+/home/dsantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.3.3/src/error.rs:
+/home/dsantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.3.3/src/syscalls.rs:

@@ -1,0 +1,9 @@
+/home/dsantos/solana-school/program-joeyjoplin/anchor_project/target/sbpf-solana-solana/release/deps/libsolana_loader_v3_interface-61689db3fe0ad418.rmeta: /home/dsantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v3-interface-5.0.0/src/lib.rs /home/dsantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v3-interface-5.0.0/src/instruction.rs /home/dsantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v3-interface-5.0.0/src/state.rs
+
+/home/dsantos/solana-school/program-joeyjoplin/anchor_project/target/sbpf-solana-solana/release/deps/libsolana_loader_v3_interface-61689db3fe0ad418.rlib: /home/dsantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v3-interface-5.0.0/src/lib.rs /home/dsantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v3-interface-5.0.0/src/instruction.rs /home/dsantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v3-interface-5.0.0/src/state.rs
+
+/home/dsantos/solana-school/program-joeyjoplin/anchor_project/target/sbpf-solana-solana/release/deps/solana_loader_v3_interface-61689db3fe0ad418.d: /home/dsantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v3-interface-5.0.0/src/lib.rs /home/dsantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v3-interface-5.0.0/src/instruction.rs /home/dsantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v3-interface-5.0.0/src/state.rs
+
+/home/dsantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v3-interface-5.0.0/src/lib.rs:
+/home/dsantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v3-interface-5.0.0/src/instruction.rs:
+/home/dsantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v3-interface-5.0.0/src/state.rs:

@@ -1,0 +1,10 @@
+/home/dsantos/solana-school/program-joeyjoplin/anchor_project/trident-tests/target/release/deps/prost_types-eb17245fb97a4a65.d: /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-types-0.11.9/src/lib.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-types-0.11.9/src/datetime.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-types-0.11.9/src/compiler.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-types-0.11.9/src/protobuf.rs
+
+/home/dsantos/solana-school/program-joeyjoplin/anchor_project/trident-tests/target/release/deps/libprost_types-eb17245fb97a4a65.rlib: /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-types-0.11.9/src/lib.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-types-0.11.9/src/datetime.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-types-0.11.9/src/compiler.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-types-0.11.9/src/protobuf.rs
+
+/home/dsantos/solana-school/program-joeyjoplin/anchor_project/trident-tests/target/release/deps/libprost_types-eb17245fb97a4a65.rmeta: /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-types-0.11.9/src/lib.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-types-0.11.9/src/datetime.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-types-0.11.9/src/compiler.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-types-0.11.9/src/protobuf.rs
+
+/home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-types-0.11.9/src/lib.rs:
+/home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-types-0.11.9/src/datetime.rs:
+/home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-types-0.11.9/src/compiler.rs:
+/home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-types-0.11.9/src/protobuf.rs:

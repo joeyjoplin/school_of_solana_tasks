@@ -1,0 +1,10 @@
+/home/dsantos/solana-school/program-joeyjoplin/anchor_project/trident-tests/target/release/deps/solana_vote-70cb243d4c1f0b35.d: /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-vote-2.0.25/src/lib.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-vote-2.0.25/src/vote_account.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-vote-2.0.25/src/vote_parser.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-vote-2.0.25/src/vote_transaction.rs
+
+/home/dsantos/solana-school/program-joeyjoplin/anchor_project/trident-tests/target/release/deps/libsolana_vote-70cb243d4c1f0b35.rlib: /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-vote-2.0.25/src/lib.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-vote-2.0.25/src/vote_account.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-vote-2.0.25/src/vote_parser.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-vote-2.0.25/src/vote_transaction.rs
+
+/home/dsantos/solana-school/program-joeyjoplin/anchor_project/trident-tests/target/release/deps/libsolana_vote-70cb243d4c1f0b35.rmeta: /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-vote-2.0.25/src/lib.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-vote-2.0.25/src/vote_account.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-vote-2.0.25/src/vote_parser.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-vote-2.0.25/src/vote_transaction.rs
+
+/home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-vote-2.0.25/src/lib.rs:
+/home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-vote-2.0.25/src/vote_account.rs:
+/home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-vote-2.0.25/src/vote_parser.rs:
+/home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-vote-2.0.25/src/vote_transaction.rs:

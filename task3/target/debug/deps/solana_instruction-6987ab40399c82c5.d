@@ -1,0 +1,10 @@
+/home/dsantos/solana-school/task3-joeyjoplin/target/debug/deps/solana_instruction-6987ab40399c82c5.d: /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-instruction-2.3.0/src/lib.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-instruction-2.3.0/src/account_meta.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-instruction-2.3.0/src/error.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-instruction-2.3.0/src/syscalls.rs
+
+/home/dsantos/solana-school/task3-joeyjoplin/target/debug/deps/libsolana_instruction-6987ab40399c82c5.rlib: /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-instruction-2.3.0/src/lib.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-instruction-2.3.0/src/account_meta.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-instruction-2.3.0/src/error.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-instruction-2.3.0/src/syscalls.rs
+
+/home/dsantos/solana-school/task3-joeyjoplin/target/debug/deps/libsolana_instruction-6987ab40399c82c5.rmeta: /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-instruction-2.3.0/src/lib.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-instruction-2.3.0/src/account_meta.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-instruction-2.3.0/src/error.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-instruction-2.3.0/src/syscalls.rs
+
+/home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-instruction-2.3.0/src/lib.rs:
+/home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-instruction-2.3.0/src/account_meta.rs:
+/home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-instruction-2.3.0/src/error.rs:
+/home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-instruction-2.3.0/src/syscalls.rs:

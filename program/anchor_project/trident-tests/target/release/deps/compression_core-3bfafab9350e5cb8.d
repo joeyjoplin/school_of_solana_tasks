@@ -1,0 +1,10 @@
+/home/dsantos/solana-school/program-joeyjoplin/anchor_project/trident-tests/target/release/deps/compression_core-3bfafab9350e5cb8.d: /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/compression-core-0.4.30/src/lib.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/compression-core-0.4.30/src/level.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/compression-core-0.4.30/src/unshared.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/compression-core-0.4.30/src/util.rs
+
+/home/dsantos/solana-school/program-joeyjoplin/anchor_project/trident-tests/target/release/deps/libcompression_core-3bfafab9350e5cb8.rlib: /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/compression-core-0.4.30/src/lib.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/compression-core-0.4.30/src/level.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/compression-core-0.4.30/src/unshared.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/compression-core-0.4.30/src/util.rs
+
+/home/dsantos/solana-school/program-joeyjoplin/anchor_project/trident-tests/target/release/deps/libcompression_core-3bfafab9350e5cb8.rmeta: /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/compression-core-0.4.30/src/lib.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/compression-core-0.4.30/src/level.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/compression-core-0.4.30/src/unshared.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/compression-core-0.4.30/src/util.rs
+
+/home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/compression-core-0.4.30/src/lib.rs:
+/home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/compression-core-0.4.30/src/level.rs:
+/home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/compression-core-0.4.30/src/unshared.rs:
+/home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/compression-core-0.4.30/src/util.rs:

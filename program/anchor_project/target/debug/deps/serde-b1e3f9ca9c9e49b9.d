@@ -1,0 +1,14 @@
+/home/dsantos/solana-school/program-joeyjoplin/anchor_project/target/debug/deps/serde-b1e3f9ca9c9e49b9.d: /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/dsantos/solana-school/program-joeyjoplin/anchor_project/target/debug/build/serde-b347a8690ef3c09a/out/private.rs
+
+/home/dsantos/solana-school/program-joeyjoplin/anchor_project/target/debug/deps/libserde-b1e3f9ca9c9e49b9.rlib: /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/dsantos/solana-school/program-joeyjoplin/anchor_project/target/debug/build/serde-b347a8690ef3c09a/out/private.rs
+
+/home/dsantos/solana-school/program-joeyjoplin/anchor_project/target/debug/deps/libserde-b1e3f9ca9c9e49b9.rmeta: /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/dsantos/solana-school/program-joeyjoplin/anchor_project/target/debug/build/serde-b347a8690ef3c09a/out/private.rs
+
+/home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/home/dsantos/solana-school/program-joeyjoplin/anchor_project/target/debug/build/serde-b347a8690ef3c09a/out/private.rs:
+
+# env-dep:OUT_DIR=/home/dsantos/solana-school/program-joeyjoplin/anchor_project/target/debug/build/serde-b347a8690ef3c09a/out

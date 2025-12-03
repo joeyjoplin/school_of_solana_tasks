@@ -1,0 +1,11 @@
+/home/dsantos/solana-school/program-joeyjoplin/anchor_project/trident-tests/target/release/deps/ascii-8913424856648b4c.d: /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ascii-0.9.3/src/lib.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ascii-0.9.3/src/ascii_char.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ascii-0.9.3/src/ascii_str.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ascii-0.9.3/src/ascii_string.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ascii-0.9.3/src/free_functions.rs
+
+/home/dsantos/solana-school/program-joeyjoplin/anchor_project/trident-tests/target/release/deps/libascii-8913424856648b4c.rlib: /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ascii-0.9.3/src/lib.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ascii-0.9.3/src/ascii_char.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ascii-0.9.3/src/ascii_str.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ascii-0.9.3/src/ascii_string.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ascii-0.9.3/src/free_functions.rs
+
+/home/dsantos/solana-school/program-joeyjoplin/anchor_project/trident-tests/target/release/deps/libascii-8913424856648b4c.rmeta: /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ascii-0.9.3/src/lib.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ascii-0.9.3/src/ascii_char.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ascii-0.9.3/src/ascii_str.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ascii-0.9.3/src/ascii_string.rs /home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ascii-0.9.3/src/free_functions.rs
+
+/home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ascii-0.9.3/src/lib.rs:
+/home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ascii-0.9.3/src/ascii_char.rs:
+/home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ascii-0.9.3/src/ascii_str.rs:
+/home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ascii-0.9.3/src/ascii_string.rs:
+/home/dsantos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ascii-0.9.3/src/free_functions.rs:
